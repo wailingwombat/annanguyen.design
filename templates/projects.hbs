@@ -1,0 +1,15 @@
+{{#*inline "filling"}}
+{{> nav}}
+<section>
+  <ul id="projects-list">
+    {{#each entities}}
+    <li class="projects-list-item">
+      <a href="projects/{{this.filename}}">
+        <div class="projects-list-item-title">{{this.title}}</div>
+      </a>
+    </li>
+    {{/each}}
+  </ul>
+</section>
+{{/inline}}
+{{> base}}

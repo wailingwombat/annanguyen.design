@@ -4,35 +4,40 @@
   box-sizing: border-box;
 }
 
+img {
+  max-width: 100%;
+  position: relative;
+}
+
 #container {
   position: relative;
   max-width: 500px;
   margin: 0 auto;
 }
 
-#posts-list {
+#projects-list {
   list-style-type: none;
 }
 
-#posts-list .posts-list-item a {
+#projects-list .projects-list-item a {
   display: flex;
 }
 
-#posts-list .posts-list-item .posts-list-item-title {
+#projects-list .projects-list-item .projects-list-item-title {
   flex-grow: 8;
 }
 
-#posts-list .posts-list-item .posts-list-item-time {
+#projects-list .projects-list-item .projects-list-item-time {
   flex-grow: 4;
   text-align: right;
 }
 
 @media (max-width: 576px) {
-  #posts-list .posts-list-item a {
+  #projects-list .projects-list-item a {
     flex-direction: column;
   }
 
-  #posts-list .posts-list-item .posts-list-item-time {
+  #projects-list .projects-list-item .projects-list-item-time {
     text-align: left;
   }
 }
