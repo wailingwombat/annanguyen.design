@@ -1,8 +1,8 @@
-<!---metadata
-date = 2023-24-02
-!-->
+<!--metadata
+date = 2017-04-21
+-->
 
-# Scaling User Journeys across IBM
+# 📍 Scaling User Journeys across IBM
 
 ![userjourney](/assets/images/ibm-journey.png)
 `user journey` `user interviews` `enterprise design`
