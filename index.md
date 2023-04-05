@@ -24,7 +24,7 @@ li {
 
 ### Highlighted Projects
 
-- 🤖 [IT Support Chatbot](/projects/ibm-itsupport.html)
+- 🤖 [Chatbot for IT Questions](/projects/ibm-itsupport.html)
 - 📍 [Scaling User Journeys](projects/ibm-blockjourney.html)
-- 📨 [Enterprise Mail Migration](projects/ibm-mail.html)
+- 📨 [Streamlining Enterprise Email Migration](projects/ibm-mail.html)
 
