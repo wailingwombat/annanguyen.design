@@ -2,7 +2,7 @@
 date = 2021-04-22
 -->
 
-# 🤖 IT Support Chatbot
+# 🤖 Chatbot for IT Questions
 
 ![chatbotitsupport](/assets/images/chatbotitsupport.png)
 
