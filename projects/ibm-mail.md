@@ -2,7 +2,7 @@
 date = 2019-01-19
 -->
 
-# 📨 Streamlinging Enterprise Email Migration
+# 📨 Streamlining Enterprise Email Migration
 
 ![mailmigration](/assets/images/ibm-mail.png)
 `surveys` `user interviews` `enterprise design`
