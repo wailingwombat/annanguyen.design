@@ -5,6 +5,10 @@ date = 2014-04-21
 # 📟 BlackBerry: Usability Testing of Phone Cameras
 
 ![blackberry](assets/images/blackberryhero.png)
+<div class="tags">
+  <code class="tag-yellow">usability study</code>
+  <code class="tag-blue">hardware testing</code>
+</div>
 
 
 **Project**: Conducted a usability study for the camera experience with the Blackberry Passport against competitor phones.

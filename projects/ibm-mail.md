@@ -2,10 +2,13 @@
 date = 2019-01-19
 -->
 
-# 📨 Enterprise Mail Migration
+# 📨 Streamlining Enterprise Email Migration
 
-![mailmigration](/assets/images/ibm-mail.png)
-`surveys` `user interviews` `enterprise design`
+![mailmigration](assets/images/ibm-mail.png)
+<div class="tags">
+  <code class="tag-purple">user research</code>
+  <code class="tag-blue">enterprise design</code>
+</div>
 
 **Overview**: I worked on moving internal employees over to a new mail client.
 

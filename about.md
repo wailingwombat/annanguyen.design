@@ -1,16 +1,29 @@
-## As a designer I believe in making intuitive and accesible designs. I’m a storyteller first weaving in the needs of the user and business. **My specialty is bringing different teams to work together.** { .subtitle }
+<style>
+#index-title {
+    display: none;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding-bottom: 18px;
+}
+li {
+  margin-bottom: 5px;
+}
+</style>
 
-![profilepicture](/assets/images/profilepic.jpg)
+# About me { #index-title }
+
+![aboutme](assets/images/profilepic.jpg)
+
+### As a designer I believe in making intuitive and accesible designs. I’m a storyteller first weaving in the needs of the user and business. **My specialty is bringing different teams to work together.**
 
 I grew up in Vancouver, Montreal, and Toronto and I am currently based in NYC. My path into design began like many others - on Neopets! This was where I started to learn to design and code by creating shop fronts for other players.
 
 <div class="grid">
-<article>
   <img src="/assets/images/Image-1.jpg"/>
- </article>
- <article>
   <img src="/assets/images/Image-2.jpg"/>
- </article>
 </div>
 
 
@@ -21,10 +34,6 @@ When I am not designing you may find me taking street photos, making crooked pot
 I also watch a lot of movies and tv and have a collection of [UI stills](https://www.are.na/anna-nguyen-0rkqu6uzk-q/user-interfaces-in-film-and-tv) I find inspiring.
 
 <div class="grid">
- <article>
   <img src="/assets/images/Image-3.jpg"/>
- </article>
-  <article>
   <img src="/assets/images/Image-4.jpg"/>
- </article>
 </div>

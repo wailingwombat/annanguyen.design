@@ -6,6 +6,11 @@ date = 2016-02-24
 
 ![ice breakers](assets/images/icebreakershero.png)
 
+<div class="tags">
+  <code class="tag-orange">iOS</code>
+  <code class="tag-purple">game design</code>
+</div>
+
 **Project:** Fun side project working with a friend, mostly done as a learning exercise
 
 **Goal**: Create a game on iOS with the objective of crushing same coloured blocks

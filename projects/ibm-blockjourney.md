@@ -4,8 +4,11 @@ date = 2017-04-21
 
 # 📍 Scaling User Journeys across IBM
 
-![userjourney](/assets/images/ibm-journey.png)
-`user journey` `user interviews` `enterprise design`
+![userjourney](assets/images/ibm-journey.png)
+<div class="tags">
+  <code class="tag-yellow">user journey</code>
+  <code class="tag-blue">enterprise design</code>
+</div>
 
 **Overview**: I worked on creating a standardized way to evaluate user journeys for all IBM.com products.
 

@@ -5,16 +5,23 @@ date = 2014-01-15
 # 🧯 MassMotion: Pedestrian Simulation Software
 
 ![massmotion](assets/images/massmotionhero.png)
+<div class="tags">
+  <code class="tag-red">UI refactoring</code>
+  <code class="tag-purple">software design</code>
+</div>
 
-**Project**: UI/UX Design for [MassMotion](https://www.oasys-software.com/products/pedestrian-simulation/massmotion/). A tool for crowd modeling, evaluating building capacity, carrying out pedestrian flow analysis or evacuation.
+## Project
+ UI/UX Design for [MassMotion](https://www.oasys-software.com/products/pedestrian-simulation/massmotion/). A tool for crowd modeling, evaluating building capacity, carrying out pedestrian flow analysis or evacuation.
 
 **Goal**: Revamp the existing look for MassMotion, while updating its tools and features.
 
 **Role**: UI/UX Designer (it was a team of 4)
 
-**Process**: While working at Arup, I spent 4 months working to revamp a software called MassMotion. MassMotion originally existed as a plugin for Softimage, though it later transitioned into a stand alone software, which simulates and analyzes pedestrian movements. During this time, highlights of my work include:
+## Process
 
-- **Updating the software’s existing user interface**. I adjusted the overall color palette from monochromic grey to dark grey and blue. I chose these colours in order to give more focus on the key element - the simulation scene. I also added specific blue accents to draw out important toggles for the user to access. In addition, I designed a set of icons for the quick build menu.
+ While working at Arup, I spent 4 months working to revamp a software called MassMotion. MassMotion originally existed as a plugin for Softimage, though it later transitioned into a stand alone software, which simulates and analyzes pedestrian movements. During this time, highlights of my work include:
+
+**Updating the software’s existing user interface**. I adjusted the overall color palette from monochromic grey to dark grey and blue. I chose these colours in order to give more focus on the key element - the simulation scene. I also added specific blue accents to draw out important toggles for the user to access. In addition, I designed a set of icons for the quick build menu.
 
 ![massmotion](assets/images/old_massmotion.jpg)
 
@@ -35,12 +42,16 @@ date = 2014-01-15
 
 ![massmotion](assets/images/timeline.png)
 
-**Final Output**:
-- See it in action in this [video](https://www.youtube.com/watch?v=T3932L5INoM)
+## Final Output
+
+<video width="600" src="assets/massmotion-loop.mp4" autoplay="" loop="" muted="" playsinline=""></video>
+
+## Impact
 - An enhanced overall user interface eliminated content clutter and maximized clarity
 - Redesigned forms allowed users to fill in information at quicker speeds
+- See it in action in this [video](https://www.youtube.com/watch?v=T3932L5INoM)
 
 
-**Learnings**:
+## Reflection
 
 The most important thing that I learned from this project is that complex systems, like Massmotion, should present the user with intuitive abstractions. To understand what I mean, consider the heating system for a house. This is a complex system that presents itself to the user in the form of a thermostat. Unfortunately, the thermostat is a rather unintuitive abstraction. If a user feels cold, they might simply turn the temperature up very high in the hopes that this will warm the house faster. This is, of course, not how the system works. The thermostat should be designed in a way that ensures that the user's intent, to make the house hotter, matches the desired output, the house becomes hotter.

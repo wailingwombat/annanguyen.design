@@ -6,6 +6,11 @@ date = 2016-02-25
 
 ![pass-sport](assets/images/bigshots-pass.png)
 
+<div class="tags">
+  <code class="tag-orange">iOS</code>
+  <code class="tag-purple">mobile design</code>
+</div>
+
 **Project**: An iOS App prototype (done in Atomic prototyping which has now been closed down). The app connects international student athletes with US coaches for college sports recruitment. This project helped the client better understand her app and vet the overall idea before committing significant resources to develop an entire mobile application.
 
 **Goal**: Create a hi-fidelity prototype that a developer could reference while building the real app.
@@ -37,6 +42,7 @@ date = 2016-02-25
     - **Forms**: Instead of trying to design custom forms like the other recruiting apps, I used standard iOS form components which have been vetted with research for usability and are familiar to users.
 
     - **Exploration Page**: I wanted this page to be a quick browse of all the coaches and athletes so I displayed them as profile cards. The small cards by themselves do not contain enough information so the prototype has a force-touch/long-press functionality that will pop open the card to show more information. Alternatively, a single column list view with larger cards containing more content, or removing the profile picture in favor of statistics could solve this problem. Removing the pictures could reduce the chance of someone selecting a profile based on superficial factors. Below are some iterations of the design.
+    
 ![pass-sport](assets/images/older-designs-pass.png)
 
 

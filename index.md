@@ -17,14 +17,14 @@ li {
 
 ## 👋 I’m Anna Nguyen a UX designer. Empathy and supportive data is the heart of what I do to create delightful experiences. { .subtitle }
 
-- 💼 [Projects](/projects)
-- 👩🏻‍💻 [About](/about.html)
+- 💼 [Projects](projects)
+- 👩🏻‍💻 [About](about.html)
 - 📄 [Resume](assets/resume.pdf)
-- 💌 [Contact](/contact.html)
+- 💌 [Contact](contact.html)
 
 ### Highlighted Projects
 
-- 🤖 [IT Support Chatbot](/projects/ibm-itsupport.html)
+- 🤖 [Chatbot for IT Questions](projects/ibm-itsupport.html)
 - 📍 [Scaling User Journeys](projects/ibm-blockjourney.html)
-- 📨 [Enterprise Mail Migration](projects/ibm-mail.html)
+- 📨 [Streamlining Enterprise Email Migration](projects/ibm-mail.html)
 

@@ -2,11 +2,13 @@
 date = 2021-04-22
 -->
 
-# 🤖 IT Support Chatbot
+# 🤖 Chatbot for IT Questions
 
-![chatbotitsupport](/assets/images/chatbotitsupport.png)
-
-`conversational design` `chatbot`
+![chatbotitsupport](assets/images/chatbotitsupport.png)
+<div class="tags">
+  <code class="tag-green">conversational design</code>
+  <code class="tag-red">chatbot</code>
+</div>
 
 **Overview**: I created a Slack tool that answered commonly asked IT questions.
 
