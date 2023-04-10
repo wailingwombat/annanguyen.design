@@ -4,35 +4,202 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1.4;
+  color: #515053;
+  background-color: #faf9f8;
+}
+
+img {
+  max-width: 100%;
+  position: relative;
+}
+
+a {
+  text-decoration: none;
+  color: #0074d9;
+  color: #00B4D8;
+  color: #373530;
+  border-bottom: 1px solid #DFDFDE;
+}
+
+article img {
+  margin: 10px 0;
+}
+
+nav {
+  margin: 25px 0 50px;
+}
+
+nav a {
+  color: #878681;
+}
+
+a:hover {
+  border-bottom: 1px solid #515053;
+}
+
+h1 {
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+h2, h3, h4, h5, h6 {
+  color: #18997d;
+  color: #139487;
+}
+
+footer {
+  margin-top: 150px;
+  margin-bottom: 25px;
+  position: relative;
+}
+
+ul, ol {
+  padding-left: 30px;
+}
+
 #container {
   position: relative;
-  max-width: 500px;
+  max-width: 600px;
   margin: 0 auto;
 }
 
-#posts-list {
+#projects-list {
   list-style-type: none;
+  padding: 0;
 }
 
-#posts-list .posts-list-item a {
-  display: flex;
+#projects-list .projects-list-item a {
+  display: inline-block;
 }
 
-#posts-list .posts-list-item .posts-list-item-title {
+#projects-list .projects-list-item .projects-list-item-title {
   flex-grow: 8;
 }
 
-#posts-list .posts-list-item .posts-list-item-time {
+#projects-list .projects-list-item .projects-list-item-time {
   flex-grow: 4;
   text-align: right;
 }
 
+#wombat {
+  width: 40px;
+  z-index: 100;
+}
+
+.subtitle {
+  line-height: 1.3;
+  margin-top: 64px;
+  margin-bottom: 32px;
+  text-align: justitfy;
+  color: #515053;
+  max-width: 500px;
+}
+
+.projects-list-item {
+  margin-top: 5px;
+}
+
+.tags {
+
+}
+
+.tags > code {
+  padding: 2px 8px;
+  margin-right: 3px;
+  border-radius: 4px;
+}
+
+.tag-green {
+  background-color: #D4E7E2;
+}
+
+.tag-red {
+  background-color: #FFDFD2;
+}
+
+.tag-blue {
+  background-color: #D5EEF8;
+}
+
+.tag-purple {
+  background-color: #E1D3F8;
+}
+
+.tag-orange {
+  background-color: #FDDFCC;
+}
+
+.tag-yellow {
+  background-color: #FBEECC;
+}
+
+.breadcrumb {
+  color: #878681;
+  margin: 0 5px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.message {
+  position: absolute; /* Setup a relative container for our psuedo elements */
+  top: -20px;
+  left: 50px;
+  max-width: 600px;
+  margin-bottom: 15px;
+  padding: 10px 15px;
+  font-size: 10px;
+  word-wrap: break-word; /* Make sure the text wraps to multiple lines if long */
+  border-radius: 20px;
+}
+
+.message:before {
+  width: 20px;
+}
+
+.message:after {
+  width: 26px;
+  background-color: #faf9f8; /* All tails have the same bg cutout */
+}
+
+.message:before,
+.message:after {
+  position: absolute;
+  bottom: 0;
+  height: 20px; /* height of our bubble "tail" - should match the border-radius above */
+  content: '';
+}
+
+.message-received {
+  align-self: flex-start;
+  background: #e5e5ea;
+}
+
+.message-received:before {
+  left: -7px;
+  background-color: #e5e5ea;
+  border-bottom-right-radius: 16px 14px;
+}
+
+.message-received:after {
+  left: -26px;
+  border-bottom-right-radius: 10px;
+}
+
 @media (max-width: 576px) {
-  #posts-list .posts-list-item a {
+  #projects-list .projects-list-item a {
     flex-direction: column;
   }
 
-  #posts-list .posts-list-item .posts-list-item-time {
+  #projects-list .projects-list-item .projects-list-item-time {
     text-align: left;
   }
 }
