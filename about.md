@@ -22,8 +22,8 @@ li {
 I grew up in Vancouver, Montreal, and Toronto and I am currently based in NYC. My path into design began like many others - on Neopets! This was where I started to learn to design and code by creating shop fronts for other players.
 
 <div class="grid">
-  <img src="assets/images/Image-1.jpg"/>
-  <img src="assets/images/Image-2.jpg"/>
+  <img src="/assets/images/Image-1.jpg"/>
+  <img src="/assets/images/Image-2.jpg"/>
 </div>
 
 
@@ -34,6 +34,6 @@ When I am not designing you may find me taking street photos, making crooked pot
 I also watch a lot of movies and tv and have a collection of [UI stills](https://www.are.na/anna-nguyen-0rkqu6uzk-q/user-interfaces-in-film-and-tv) I find inspiring.
 
 <div class="grid">
-  <img src="assets/images/Image-3.jpg"/>
-  <img src="assets/images/Image-4.jpg"/>
+  <img src="/assets/images/Image-3.jpg"/>
+  <img src="/assets/images/Image-4.jpg"/>
 </div>
