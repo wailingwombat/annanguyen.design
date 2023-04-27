@@ -1,5 +1,8 @@
 <!--metadata
 date = 2014-01-15
+shortname = "Massmotion App Design"
+slug = "massmotion"
+head_title = "Massmotion App Design"
 -->
 
 # 🧯 MassMotion: Pedestrian Simulation Software

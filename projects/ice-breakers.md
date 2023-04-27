@@ -1,5 +1,8 @@
 <!--metadata
 date = 2016-02-24
+shortname = "Ice-Breakers iOS Game"
+slug = "ice-breakers"
+head_title = "Ice-Breakers iOS Game"
 -->
 
 # 🐻‍❄️ Ice Breakers: iOS Game Mockup

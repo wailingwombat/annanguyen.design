@@ -1,5 +1,8 @@
 <!--metadata
 date = 2021-04-22
+shortname = "Chatbot for IT Questions"
+slug = "ibm-itsupport"
+head_title = "Chatbot for IT Questions"
 -->
 
 # 🤖 Chatbot for IT Questions

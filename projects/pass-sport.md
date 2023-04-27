@@ -1,5 +1,8 @@
 <!--metadata
 date = 2016-02-25
+shortname = "iOS App Concept"
+slug = "pass-sport"
+head_title = "iOS App Concept"
 -->
 
 # ⚽ PassSport: iOS App Prototype for Athletic Recruiting

@@ -1,5 +1,8 @@
 <!--metadata
 date = 2019-01-19
+shortname = "Enterprise Mail Migration"
+slug = "ibm-mail"
+head_title = "Enterprise Mail Migration"
 -->
 
 # 📨 Streamlining Enterprise Email Migration

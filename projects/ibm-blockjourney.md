@@ -1,5 +1,8 @@
 <!--metadata
 date = 2017-04-21
+shortname = "Journey System"
+slug = "ibm-blockjourney"
+head_title = "Journey Systems"
 -->
 
 # 📍 Scaling User Journeys across IBM

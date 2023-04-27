@@ -1,5 +1,8 @@
 <!--metadata
 date = 2014-04-21
+shortname = "Blackberry Testing Camera"
+slug = "blackberry"
+head_title = "Blackberry Testing Cameras"
 -->
 
 # 📟 BlackBerry: Usability Testing of Phone Cameras
