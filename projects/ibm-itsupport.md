@@ -13,15 +13,16 @@ head_title = "Chatbot for IT Questions"
   <code class="tag-red">chatbot</code>
 </div>
 
-**Overview**: I created a Slack tool that answered commonly asked IT questions.
+**Overview**: I led the design and research efforts for a Slack tool addressing common IT queries.
 
-**Role**: Lead UX Designer and Researcher
+**Role**: As the Lead UX Designer and Researcher, I created a solution that effectively guided employees to IT solutions, reducing search times and ticket submissions, especially during non-office hours.
 
 **Impact Overview**:
-- Successfully helped employees find solutions to their problems and **spend less time searching for information**. Also fills a gap when a co-worker or support is not online like at night time.
-- **Reduce number of tickets** for simple IT problems. Success was measured through data and user research.
-- Translated help documents into conversation flow. Optimized formatting handoff to content writer and developer by setting up a Slack Block Kit repo.
-- Guided the PO and team and scoped out the chatbot corpus and feature requirements through workshops.
-- Created a standard for chatbots on Slack in Figma. Created a standard personality and voice in addition to formatting standards in Slack Block Kit.
+- **Significantly reduced tickets for basic IT issues**, backed by measurable data and user research.
+- Translated help documents into conversational flows, streamlining handoffs to content writers and developers through a Slack Block Kit repo.
+- Guided the Product Owner and the team in scoping the chatbot corpus and feature requirements via workshops.
+- Established standards for Slack chatbots in Figma, defining personality, voice, and formatting guidelines in Slack Block Kit.
 
-Note: Due to most of my work being internal, I can't show a lot of the work on my site. As part of IBM's CIO Design team, I work with multiple teams to improve our internal products. From legacy tools to new initiatives, I have guided design workshops and conducted user research making internal products more effective and user-friendly.
+Note: Given the internal nature of my work at IBM's CIO Design team, I'm unable to showcase extensive details on my site. Reach out for PDF version.
+
+What I do at IBM: As part of IBM's CIO Design team, I work collaboratively across teams to improve our internal products. From legacy tools to new initiatives, I have guided design workshops and conducted user research making internal products more effective and user-friendly.
