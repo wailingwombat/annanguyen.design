@@ -13,17 +13,19 @@ head_title = "Enterprise Mail Migration"
   <code class="tag-blue">enterprise design</code>
 </div>
 
-**Overview**: I worked on moving internal employees over to a new mail client.
+**Overview**: I initiated the pilot to transition internal employees to a new mail client
 
 **Role**: UX Designer and Researcher with one other designer
 
 **Impact Overview**:
 - Email is an essential tool for employees. The old client was slow and no longer conformed to modern UX standards (it was Lotus Notes).
-- Survey a sample of IBM population on what their preference of mail migration was
-- Launched the pilot of a multi-year project to **migrate all 500,000+ IBM employee** from one mail client to another
-- Established the series of emails, tutorials, and before and after migration experience when employees set up their computer and phones for the first time
-- Incrementally **improved user experience** with rounds of interviews and long term metric gathering
-- Journey mapped the entire experience for the user to connect teams and ensure there was no gaps during an employee migration.
+- Conducted a survey among a sample of the IBM population to understand their preferences for mail migration.
+- Launched the pilot phase of a multi-year project aimed at migrating over 500,000 IBM employees from one mail client to another.
+- Established a comprehensive communication strategy, including emails, tutorials, and a before-and-after migration experience for employees setting up their computers and phones.
+- Incrementally improved the user experience through rounds of interviews and long-term metric gathering.
+- Journey mapped the entire user experience to facilitate team collaboration and ensure a seamless transition for employees during migration.
 
 
-Note: Due to most of my work being internal, I can't show a lot of the work on my site. As part of IBM's CIO Design team, I work with multiple teams to improve our internal products. From legacy tools to new initiatives, I have guided design workshops and conducted user research making internal products more effective and user-friendly.
+Note: Given the internal nature of my work at IBM's CIO Design team, I'm unable to showcase extensive details on my site. Reach out for PDF version.
+
+What I do at IBM: As part of IBM's CIO Design team, I work collaboratively across teams to improve our internal products. From legacy tools to new initiatives, I have guided design workshops and conducted user research making internal products more effective and user-friendly.
