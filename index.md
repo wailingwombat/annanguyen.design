@@ -24,7 +24,7 @@ li {
 
 ### Highlighted Projects
 
+- 📊 [Standardizing User Experience for Internal Tools](projects/uxra.html)
 - 🤖 [Chatbot for IT Questions](projects/ibm-itsupport.html)
-- 📍 [Scaling User Journeys](projects/ibm-blockjourney.html)
 - 📨 [Streamlining Enterprise Email Migration](projects/ibm-mail.html)
 
